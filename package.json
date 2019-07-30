@@ -74,8 +74,8 @@
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {},
       "cordova-plugin-googlemaps": {
-        "API_KEY_FOR_ANDROID": "AIzaSyA4KIsMqLdxeabcpW-g960PifzEc_-u5NU",
-        "API_KEY_FOR_IOS": "AIzaSyA4KIsMqLdxeabcpW-g960PifzEc_-u5NU",
+        "API_KEY_FOR_ANDROID": "your_key",
+        "API_KEY_FOR_IOS": "your_key",
         "PLAY_SERVICES_VERSION": "15.0.1",
         "ANDROID_SUPPORT_V4_VERSION": "27.+"
       },
@@ -83,8 +83,8 @@
       "at.gofg.sportscomputer.powermanagement": {},
       "cordova-plugin-background-mode": {},
       "cordova-fabric-plugin": {
-        "FABRIC_API_KEY": "8b6a7a210ca831575dfbcc6eb546c2c39ebcb814",
-        "FABRIC_API_SECRET": "40276332ad6b14a08cb181d0cdd48b8ec68e7cb9af00186169b489187526492a"
+        "FABRIC_API_KEY": "your_key",
+        "FABRIC_API_SECRET": "your_key"
       }
     },
     "platforms": [
