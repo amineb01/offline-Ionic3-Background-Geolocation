@@ -1,3 +1,11 @@
 page-home {
+  button:active {
+    background-color: #545454;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .button-ios-rounded {
+    margin: 15px 2px;
 
+  }
 }

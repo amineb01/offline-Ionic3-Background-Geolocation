@@ -10,6 +10,11 @@
   <h3>Current Latitude: {{locationTracker.lat}}</h3>
   <h3>Current Longitude: {{locationTracker.lng}}</h3>
 
-  <button ion-button full primary (click)="start()">Start Tracking</button>
-  <button ion-button full primary (click)="stop()">Stop Tracking</button>
+  <button ion-button full round primary class="button-ios-rounded" (click)="start()">Start Tracking</button>
+  <button ion-button full round color="light" class="button-ios-rounded" (click)="stop()">Stop Tracking</button>
+  <button ion-button full round color="danger"  class="button-ios-rounded" (click)="clearLocations()">Clear Tracking</button>
+  <button ion-button full round color="secondary" class="button-ios-rounded" (click)="goToMap()">Check the map</button>
+
+
+
 </ion-content>
